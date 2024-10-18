@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/gh-pages/",
+  base: "/my-portfolio/",
   css: {
     modules: {
       localsConvention: 'camelCase',
