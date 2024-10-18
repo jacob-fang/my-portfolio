@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Upwork",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Freelancer on Upwork"],
+    "imageSrc": "history/freelance.png"
+  },
+  {
+    "role": "Self Studying",
+    "organisation": "",
+    "startDate": "Nov, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [],
+    "imageSrc": "history/study.png"
+  }
+]
