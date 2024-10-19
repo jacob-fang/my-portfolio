@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "This portfolio itself is a project of mine.",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
-    "demo": "jacob-fang.github.io/my-portfolio/",
+    "demo": "https://jacob-fang.github.io/my-portfolio/",
     "source": "https://github.com/jacob-fang/my-portfolio"
   }
 ]
