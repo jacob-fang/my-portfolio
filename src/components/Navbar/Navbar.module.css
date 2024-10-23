@@ -27,7 +27,7 @@
   list-style: none;
 }
 
-.menuBtn { /* personal choice, also changing in media query */
+.menuBtn { /* personal */
   display: none;
 }
 
@@ -54,7 +54,7 @@
   }
 
   .menuBtn {
-    display: flex; /* personal choice, next line is the origin one */
+    display: flex; /* personal */
     /* display: blocks; */
     cursor: pointer;
   }
