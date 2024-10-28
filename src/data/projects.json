@@ -6,5 +6,13 @@
     "skills": ["HTML", "CSS", "JavaScript", "React"],
     "demo": "https://jacob-fang.github.io/my-portfolio/",
     "source": "https://github.com/jacob-fang/my-portfolio"
+  },
+  {
+    "title": "MERN Product Store",
+    "imageSrc": "projects/project.png",
+    "description": "This portfolio itself is a project of mine.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "demo": "https://mern-product-store-va1v.onrender.com/",
+    "source": "https://github.com/jacob-fang/mern-product-store"
   }
 ]
